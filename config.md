@@ -1,4 +1,4 @@
-
+@def prepath = "selfwebsite"
 <!--
 Add here global page variables to use throughout your website.
 -->
